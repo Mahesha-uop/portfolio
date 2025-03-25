@@ -65,6 +65,7 @@ img {
 
 .text {
   font-size: 1.25rem;
+  text-align: justify;
   color: var(--dark-two);
   line-height: 1.6;
 }
